@@ -3,7 +3,7 @@ Courage Wolf Generator
 
 This is my Courage Wolf Generator implemented as a Clojure leiningen project.
 
-Impress the ladies by using it to generate sweet videos like this one
+Impress potential mates by by using it to generate sweet videos like this one
 
 https://www.youtube.com/watch?v=nZGCnDSC4Rc
 
@@ -22,7 +22,7 @@ Now run Courage Wolf Generator to generate and download JPEGs of **Courage Wolf*
  $ lein run
 ```
 
-Now save a copy of O Fortuna, the Apotheosis remix to o_fortuna.mp3,
+Next, save a copy of O Fortuna, the Apotheosis remix to o_fortuna.mp3,
 or alternatively something else that's 4:53 long.
 
 ```
