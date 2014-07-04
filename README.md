@@ -31,7 +31,7 @@ $ mencoder "mf://*.jpg" -mf fps=71/293 -audiofile o_fortuna.mp3 -o courage_wolf_
 
 to build the .avi.
 
-Finally, upload to YouTube to cement greatness.
+Finally, upload to YouTube and cement greatness.
 
 License
 -------
