@@ -3,7 +3,9 @@ Courage Wolf Generator
 
 This is my Courage Wolf Generator implemented as a Clojure leiningen project.
 
-Impress the ladies by using it to generate sweet videos like this one https://www.youtube.com/watch?v=nZGCnDSC4Rc
+Impress the ladies by using it to generate sweet videos like this one
+
+https://www.youtube.com/watch?v=nZGCnDSC4Rc
 
 Usage
 -----
@@ -14,7 +16,7 @@ Stick your credentials in src/courage_wolf_generator/core.clj
 
 Fill the -main function with inspiring quotes.
 
-Now run Courage Wolf Generator to generate and download JPEGs of *Courage Wolf*
+Now run Courage Wolf Generator to generate and download JPEGs of **Courage Wolf**
 
 ```
  $ lein run
