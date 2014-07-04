@@ -3,13 +3,12 @@ Courage Wolf Generator
 
 This is my Courage Wolf Generator implemented as a Clojure leiningen project.
 
-Impress the ladies by using it to generate sweet videos like this one
-  https://www.youtube.com/watch?v=nZGCnDSC4Rc
+Impress the ladies by using it to generate sweet videos like this one https://www.youtube.com/watch?v=nZGCnDSC4Rc
 
 Usage
 -----
 
-Get an account at memegenerator.net.
+Get an account at http://memegenerator.net/
 
 Stick your credentials in src/courage_wolf_generator/core.clj
 
