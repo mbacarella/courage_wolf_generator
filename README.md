@@ -3,7 +3,7 @@ Courage Wolf Generator
 
 This is my Courage Wolf Generator implemented as a Clojure leiningen project.
 
-Impress potential mates by by using it to generate sweet videos like this one
+Impress your choice of mate by generating sweet Courage Wolf montages, like this one.
 
 https://www.youtube.com/watch?v=nZGCnDSC4Rc
 
