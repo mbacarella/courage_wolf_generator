@@ -18,7 +18,7 @@ Fill the -main function with inspiring quotes.
  $ lein run
 ```
 
-Now save a copy of O Fortuna, the Apotheosis remix to oh_fortuna.mp3,
+Now save a copy of O Fortuna, the Apotheosis remix to o_fortuna.mp3,
 or alternatively something else that's 4:53 long.
 
 ```
