@@ -14,6 +14,8 @@ Stick your credentials in src/courage_wolf_generator/core.clj
 
 Fill the -main function with inspiring quotes.
 
+Now run Courage Wolf Generator to generate and download JPEGs of *Courage Wolf*
+
 ```
  $ lein run
 ```
